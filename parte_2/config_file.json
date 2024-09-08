@@ -1,0 +1,6 @@
+{
+    "csv_jobs":5,
+    "json_jobs":5,
+    "files_folder_path":"pruebas",
+    "dataframe_path":"pruebas\\dataframe.pkl"
+}
